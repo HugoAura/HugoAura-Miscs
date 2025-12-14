@@ -1,0 +1,9 @@
+desktop.ini
+.DS_Store
+
+*.log
+*.bak
+*.local
+*.tmp
+
+dist/
